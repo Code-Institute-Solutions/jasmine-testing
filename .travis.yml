@@ -1,4 +1,4 @@
 language: node_js
-script: node_modules/jasmine/bin/jasmine 02-scripts_and_specs
+script: npm test
 before_script:
     - npm install
