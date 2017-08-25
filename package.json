@@ -1,0 +1,29 @@
+{
+    "name": "jasmine-testing",
+    "version": "1.0.0",
+    "description": "An example of using Jasmine to write tests for JS code",
+    "main": "index.js",
+    "scripts": {
+        "test": "gulp test"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Code-Institute-Solutions/jasmine-testing.git"
+    },
+    "keywords": [
+        "jasmine",
+        "test",
+        "testing"
+    ],
+    "author": "Aaron Sinnott",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Code-Institute-Solutions/jasmine-testing/issues"
+    },
+    "homepage": "https://github.com/Code-Institute-Solutions/jasmine-testing#readme",
+    "dependencies": {
+        "gulp": "^3.9.1",
+        "gulp-jasmine-phantom": "^3.0.0",
+        "jasmine": "^2.7.0"
+    }
+}
