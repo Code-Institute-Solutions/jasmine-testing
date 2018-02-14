@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/Code-Institute-Solutions/jasmine-testing.svg?branch=master)](https://travis-ci.org/Code-Institute-Solutions/jasmine-testing)
+
 
 # Jasmine Testing
 
