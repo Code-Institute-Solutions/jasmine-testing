@@ -20,7 +20,7 @@ describe("Calculator", function() {
         it("should have called the alert function if either number is undefined", function() {
             spyOn(window, "alert");
             calc.add("Hello");
-            expect(window.alert).toHaveBeenCalledWith("Both arguments must be numbers");
+            expect(window.alert).toHaveBeenCalledWith("Argument must be a number");
         });
     });
 });
